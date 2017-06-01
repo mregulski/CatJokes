@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatJokes</string>
+    <string name="jokeBtn_text">Tell me a joke</string>
+    <string name="catsBtn_text">Show me some cats</string>
+</resources>
